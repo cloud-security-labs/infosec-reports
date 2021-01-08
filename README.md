@@ -10,12 +10,12 @@
 - [2016](#2016)
 - [2015](#2015)
 
-## <a name="2021"></a> 2021 [^top](#top)
+## <a name="2021"></a> 2021 | [top](#top)
 
 | Report Name | Company | Link |
 | A Global Reset: Cyber Security Predictions 2021 | FireEye | https://content.fireeye.com/predictions/rpt-security-predictions-2021 |
 
-## <a name="2020"></a> 2020
+## <a name="2020"></a> 2020  | [top](#top)
 
 | Report Name | Company | Link |
 | - | - | - |
@@ -45,7 +45,7 @@
 | 2020-2021 Cyber-Espionage Report | Verizon | https://enterprise.verizon.com/resources/reports/2020-2021-cyber-espionage-report.pdf |
 | 2020-2021 Cyber-Espionage Report: Executive insights| Verizon | https://enterprise.verizon.com/resources/executivebriefs/2020/2020-cyber-espionage-executive-insights.pdf |
 
-## <a name="2019"></a> 2019
+## <a name="2019"></a> 2019 | [top](#top)
 
 | Report Name | Company | Link |
 | - | - | - |
@@ -56,7 +56,7 @@
 | 2019 Data Breach Investigations Report | Verizon | https://enterprise.verizon.com/resources/reports/2019-data-breach-investigations-report-emea.pdf |
 | 2019 Data Breach Investigations Report: Executive Summary | Verizon | https://enterprise.verizon.com/resources/executivebriefs/2019/2019-dbir-executive-brief-emea.pdf |
 
-## <a name="2018"></a> 2018
+## <a name="2018"></a> 2018 | [top](#top)
 
 | Report Name | Company | Link |
 | - | - | - |
@@ -65,7 +65,7 @@
 | 2018 Data Breach Investigations Report | Verizon | https://enterprise.verizon.com/resources/reports/DBIR_2018_Report.pdf |
 | 2018 Internet Crime Report | FBI | https://pdf.ic3.gov/2019_IC3Report.pdf |
 
-## <a name="2017"></a> 2017
+## <a name="2017"></a> 2017 | [top](#top)
 
 | Report Name | Company | Link |
 | - | - | - |
@@ -73,13 +73,13 @@
 | 2017 Data Breach Digest| Verizon | https://enterprise.verizon.com/resources/reports/data-breach-digest-2017-perspective-is-reality.pdf |
 | 2017 Data Breach Investigations Report | Verizon | https://enterprise.verizon.com/resources/reports/2017_dbir.pdf |
 
-## <a name="2016"></a> 2016
+## <a name="2016"></a> 2016 | [top](#top)
 
 | Report Name | Company | Link |
 | - | - | - |
 | Looking Forward: The 2016 Security Landscape | FireEye | https://www.fireeye.com/content/dam/collateral/en/rpt-security-predictions-2016.pdf |
 
-## <a name="2015"></a> 2015 [^top](#top)
+## <a name="2015"></a> 2015 | [top](#top)
 
 | Report Name | Company | Link |
 | - | - | - |
