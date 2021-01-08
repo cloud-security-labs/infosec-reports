@@ -13,6 +13,7 @@
 ## <a name="2021"></a> 2021 | [top](#top)
 
 | Report Name | Company | Link |
+| - | - | - |
 | A Global Reset: Cyber Security Predictions 2021 | FireEye | https://content.fireeye.com/predictions/rpt-security-predictions-2021 |
 
 ## <a name="2020"></a> 2020  | [top](#top)
