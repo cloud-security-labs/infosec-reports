@@ -1,5 +1,17 @@
 # <a name="top"></a> Information Security Reports
 
+Information security reports organized by year and further organized by ascending alphabetical report name.
+
+## Purpose
+
+We know how hard it is to find infosec reports. We made this repository to help you quickly and easily find whatever report you need.
+
+## How to Contribute
+
+Please make a pull request that contains the year of the report, the link to the pdf, and the company that made it.
+
+We will personally review your request.
+
 ## Table of Contents
 
 - [2021](#2021)
