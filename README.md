@@ -21,6 +21,7 @@ We will personally review your request.
 - [2017](#2017)
 - [2016](#2016)
 - [2015](#2015)
+- [2012](#2012)
 
 ## <a name="2021"></a> 2021 | [top](#top)
 
@@ -68,6 +69,8 @@ We will personally review your request.
 | 2019 Internet Crime Report | FBI | https://pdf.ic3.gov/2019_IC3Report.pdf |
 | 2019 Data Breach Investigations Report | Verizon | https://enterprise.verizon.com/resources/reports/2019-data-breach-investigations-report-emea.pdf |
 | 2019 Data Breach Investigations Report: Executive Summary | Verizon | https://enterprise.verizon.com/resources/executivebriefs/2019/2019-dbir-executive-brief-emea.pdf |
+| 2019 State of Password and Authetication Security Behaviors | Ponemon Institute | https://www.yubico.com/wp-content/uploads/2019/01/Ponemon-Authentication-Report.pdf |
+| 2019 State of Password and Authetication Security Behaviors Infographic | Ponemon Institute | https://resources.yubico.com/53ZDUYE6/as/q4dbh0-bvwmcw-8qri7a/United_States_-_2019_Ponemon_Security_Infographic.pdf |
 
 ## <a name="2018"></a> 2018 | [top](#top)
 
@@ -97,3 +100,17 @@ We will personally review your request.
 | Report Name | Company | Link |
 | - | - | - |
 | GAZING INTO THE CYBER SECURITY FUTURE: 20 Predictions for 2015 | FireEye | https://www.fireeye.com/content/dam/collateral/en/rpt-security-predictions-2015.pdf |
+
+## <a name="2013"></a> 2013 | [top](#top)
+
+| Report Name | Company | Link |
+| - | - | - |
+| 2013 State of the Endpoint | Ponemon Institute | https://www.ponemon.org/local/upload/file/2013%20State%20of%20Endpoint%20Security%20WP_FINAL4.pdf |
+
+
+## <a name="2012"></a> 2012 | [top](#top)
+
+| Report Name | Company | Link |
+| - | - | - |
+| 2012 Cost of Cyber Crime Study: United States | Ponemon Institute | https://www.ponemon.org/local/upload/file/2012_US_Cost_of_Cyber_Crime_Study_FINAL6%20.pdf |
+| 2012 Most Trusted Companies for Privacy | Ponemon Institute | https://www.ponemon.org/local/upload/file/2012%20MTC%20Report%20FINAL.pdf |
