@@ -34,6 +34,7 @@ We will personally review your request.
 
 | Report Name | Company | Link |
 | - | - | - |
+| Cost of Data Breach Report 2020 | IBM Security | [PDF](1Cost%20of%20a%20Data%20Breach%20Report%202020.pdf)
 | THE ROAD AHEAD: CYBER SECURITY IN 2020 AND BEYOND | FireEye | https://content.fireeye.com/predictions/rpt-security-predictions-2020?xs=101120 |
 | Mobile Security Index: 2020 | Verizon | https://enterprise.verizon.com/resources/reports/mobile-security-index/ |
 | Mobile Security Index: 2020 executive summary | Verizon | https://enterprise.verizon.com/resources/reports/2020-msi-executive-summary.pdf |
